@@ -1,6 +1,5 @@
 #include "main.h"
 #include <stdio.h>
-#include "putchar.h"
 
 /**
  * _islower - Checks for lowercase alphabet
